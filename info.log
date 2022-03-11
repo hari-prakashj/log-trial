@@ -1,0 +1,27 @@
+{"level":"info","message":"sucess","timestamp":"Mar-10-2022 08:06:54"}
+{"level":"info","message":"sucess","timestamp":"Mar-10-2022 08:07:42"}
+{"level":"error","message":"completed","timestamp":"Mar-10-2022 08:07:42"}
+{"level":"info","message":"sucess","timestamp":"Mar-10-2022 08:09:58"}
+{"level":"error","message":"completed","timestamp":"Mar-10-2022 08:09:58"}
+{"level":"info","message":"sucess","timestamp":"Mar-10-2022 10:28:26"}
+{"level":"error","message":"completed","timestamp":"Mar-10-2022 10:28:26"}
+{"level":"info","message":"finished","timestamp":"Mar-10-2022 10:29:12"}
+{"level":"error","message":"done","timestamp":"Mar-10-2022 10:29:12"}
+{"level":"info","message":"sucess"}
+{"level":"error","message":"completed"}
+{"level":"info","message":"sucess"}
+{"level":"error","message":"completed"}
+{"level":"info","message":"sucess","timestamp":"11-03-2022 11:28:01"}
+{"level":"error","message":"completed","timestamp":"11-03-2022 11:28:01"}
+{"level":"info","message":"sucess","time_is_money":"2022-03-11 12:34:51","timestamp":"11-03-2022 12:34:51"}
+{"level":"error","message":"completed","time_is_money":"2022-03-11 12:34:51","timestamp":"11-03-2022 12:34:51"}
+11-03-2022 13:14:17 [undefined] info: sucess
+11-03-2022 13:14:17 [undefined] error: completed
+11-03-2022 13:21:56 [undefined] info: sucess
+11-03-2022 13:21:56 [undefined] error: completed
+11-03-2022 13:23:13  info: sucess
+11-03-2022 13:23:13  error: completed
+11-03-2022 13:28:22  info: sucess
+11-03-2022 13:28:22  error: completed
+11-03-2022 13:44:11  info: sucess
+11-03-2022 13:44:11  error: completed
